@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaiSaiGanesh
 - 👀 I’m interested in software sector
-- 🌱 I’m currently learning pytho,django
-- 💞️ I’m looking to get enetry job level position
+- 🌱 I’m currently learning python,django
+- 💞️ I’m looking to get entry job level position
 - 📫 How to reach me >>>>>jaisaiganeshkaki@gmail.com
 
 <!---
